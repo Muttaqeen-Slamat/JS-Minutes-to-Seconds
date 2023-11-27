@@ -3,6 +3,7 @@
 *::before{
     padding: 0;
     margin: 0;
+    background-color: #D0A2F7;
 }
 
 h1{
@@ -17,6 +18,8 @@ section{
 input{
     border-radius: 5px;
     padding: 5px;
+    background-color: #E5D4FF;
+    color: black;
 }
 
 .val1{
@@ -27,6 +30,8 @@ button{
     margin-top: 10px;
     border-radius: 5px;
     padding: 5px;
+    background-color: #E5D4FF;
+    color: black;
 }
 
 .output{
