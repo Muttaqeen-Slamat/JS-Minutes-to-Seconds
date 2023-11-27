@@ -37,3 +37,7 @@ button{
 .output{
     margin-top: 10px;
 }
+
+#minutes{
+    text-align: center;
+}
